@@ -17,4 +17,7 @@
 ### Pole vault Dendrogram
 ![picture](images/polevault_dendro.png)
 
+### Diving Dendrogram
+![picture](images/diving.png)
+
 
