@@ -18,6 +18,6 @@
 ![picture](images/polevault_dendro.png)
 
 ### Diving Dendrogram
-![picture](images/Diving.png)
+![picture](images/Diving_dendro.png)
 
 
