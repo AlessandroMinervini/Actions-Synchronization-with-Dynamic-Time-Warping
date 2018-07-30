@@ -2,6 +2,7 @@
  Synchronization of videos in which the actor performs the same action: in particular sports videos including pole vault and dives
 
 ### Idea:
+- Extract for each video of a class the features (poses of the actors) with Mask R-CNN
 - Create a matrix of video distances of a class 
 - Apply a hierarchical clustering algorithm based on the distance matrix to understand which pairs apply dynamic time warping
 - For each level of the resulting tree (Dendrogram) it is possible to reproduce subtree videos in a synchronized way
