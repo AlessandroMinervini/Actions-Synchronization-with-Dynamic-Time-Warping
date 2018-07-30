@@ -9,7 +9,7 @@
 
 
 ### To run:
-- Download the videos from [the google drive link on this page](https://drive.google.com/file/d/1o2l6nYhd-0DDXGP-IPReBP4y1ffVmGSE/view/) and put them in the video folder.
+- Download the videos from [the google drive link on this page](https://drive.google.com/file/d/1o2l6nYhd-0DDXGP-IPReBP4y1ffVmGSE) and put them in the video folder.
 
 
 
