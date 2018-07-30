@@ -15,6 +15,6 @@
 - Choose which subtree to synchronize from the dendrogram and the child table.
 
 ### Pole vault Dendrogram
-![picture](imgages/polevault_dendro)
+![picture](imgages/polevault_dendro.png)
 
 
