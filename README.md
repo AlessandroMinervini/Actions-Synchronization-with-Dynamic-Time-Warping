@@ -6,7 +6,7 @@
 ### Idea:
 - Extract for each video of a class the features (poses of the actors) with Mask R-CNN.
 - Create a matrix of video distances of a class.
-- Apply a hierarchical clustering algorithm based on the distance matrix to understand which pairs apply dynamic time warping.
+- Apply a hierarchical clustering algorithm based on the distances matrix to understand which pairs apply dynamic time warping.
 - For each level of the resulting tree (Dendrogram) it is possible to reproduce subtree videos in a synchronized way.
 
 
